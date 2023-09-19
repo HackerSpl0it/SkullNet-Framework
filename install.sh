@@ -23,7 +23,6 @@ git clone https://github.com/s0md3v/XSStrike
 git clone https://github.com/thewhiteh4t/seeker
 git clone https://github.com/Euronymou5/Doxxer-Toolkit
 git clone https://github.com/Alygnt/Clifty
-git clone https://github.com/topics/camhacker
 git clone https://github.com/kinghacker0/Apk-Binder
 git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro
 git clone https://github.com/fu8uk1/Facebash
