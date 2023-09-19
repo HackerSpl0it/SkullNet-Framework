@@ -31,6 +31,8 @@ git clone https://github.com/Mehran/tweetshell
 git clone https://github.com/wishihab/userrecon
 git clone https://github.com/prbhtkumr/PhoneSploit
 git clone https://github.com/Morsmalleo/HiddenEye
+chmod +x *.py
+chmod +x *.sh
 cd ..
 clear
 chmod +x skullnet.py
