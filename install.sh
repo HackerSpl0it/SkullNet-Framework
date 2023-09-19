@@ -4,6 +4,7 @@ echo "INSTALLING REQUIREMENTS PACKAGES FOR HACKING SOFTWARE ..."
 mv httphish .packages
 mv Raven-Storm .packages
 sudo apt update && sudo apt upgrade -y
+sudo apt install figlet -y
 sudo apt install git -y
 sudo apt install metasploit-framework -y
 sudo apt install sqlmap -y
