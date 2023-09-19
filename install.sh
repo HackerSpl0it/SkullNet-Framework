@@ -4,7 +4,7 @@ echo "INSTALLING REQUIREMENTS PACKAGES FOR HACKING SOFTWARE ..."
 mv httphish .packages
 mv Raven-Storm .packages
 mv zphisher .packages
-mv camhacker .packages
+mv CamHacker .packages
 sudo apt update && sudo apt upgrade -y
 sudo apt install figlet -y
 sudo apt install git -y
