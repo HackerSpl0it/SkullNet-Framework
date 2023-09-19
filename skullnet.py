@@ -1,3 +1,5 @@
+# coded by HackerSpl0it
+# dont copy the code script kiddie! and give me the credits
 import os
 import sys
 import random
@@ -78,6 +80,7 @@ while True:
     print(banner())
     print('''
      >>>  SkullNet Framework  <<<    
+     >>>   by HackerSpl0it    <<<
      >>>  Hacking all in one  <<<
      >>>  Select the Attack   <<<
 
