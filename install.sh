@@ -33,5 +33,7 @@ git clone https://github.com/prbhtkumr/PhoneSploit
 git clone https://github.com/Morsmalleo/HiddenEye
 cd ..
 clear
+chmod +x skullnet.py
+clear
 echo "                              "
 echo "[+] Start SkullNet-Framework Toolkit using: python3 skullnet.py"
