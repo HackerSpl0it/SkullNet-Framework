@@ -3,6 +3,8 @@ mv packages .packages
 echo "INSTALLING REQUIREMENTS PACKAGES FOR HACKING SOFTWARE ..."
 mv httphish .packages
 mv Raven-Storm .packages
+mv zphisher .packages
+mv camhacker .packages
 sudo apt update && sudo apt upgrade -y
 sudo apt install figlet -y
 sudo apt install git -y
@@ -14,7 +16,6 @@ sudo apt install airgerddon -y
 sudo apt install terminator -y
 sudo apt install maltego -y
 cd .packages
-git clone https://github.com/topics/zphisher
 git clone https://github.com/termuxhackers-id/SARA
 git clone https://github.com/secdec/xssmap
 git clone https://github.com/capture0x/XSS-LOADER
